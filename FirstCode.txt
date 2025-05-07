@@ -1,1 +1,3 @@
 Hello World !!
+take input froom user 
+add yhe values 
